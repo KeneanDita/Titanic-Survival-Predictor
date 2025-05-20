@@ -1,6 +1,6 @@
 # Titanic Survival Predictor
 
-This project builds a machine learning model to predict passenger survival on the Titanic based on features such as age, sex, class, and more. It's based on the classic Kaggle Titanic dataset and serves as a beginner-friendly introduction to data science, feature engineering, and classification modeling.
+This project builds a machine learning model to predict passenger survival on the Titanic based on features such as Pclass, fare, age, parch and more. It's based on the classic Kaggle Titanic dataset and serves as a beginner-friendly introduction to data science, feature engineering, and classification modeling.
 
 ## How to Run
 
