@@ -30,3 +30,5 @@ This project builds a machine learning model to predict passenger survival on th
 Model Accuracy: \~83.79%
 
 Model: Random Forest Classifier
+
+Ranked at: 3227 out of 16050 submissions
